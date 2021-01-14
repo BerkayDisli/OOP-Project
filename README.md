@@ -1,4 +1,4 @@
-# OOP-Project
+# Nüfus Yönetim Sistemi Proje Ödevi
 Projeyi hazırlayanlar
 Berkay Dişli - 190302011
 Yavuz İmer - 190302004
